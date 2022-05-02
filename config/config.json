@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2b34F5C9d0d60C506dDeC94b934f72cBfFe9D3E0",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x2b34F5C9d0d60C506dDeC94b934f72cBfFe9D3E0",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Prime Ghosts",
+  "SYMBOL": "PG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3946153466829378,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
